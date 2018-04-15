@@ -3,22 +3,22 @@ projects:
   heading: Projects
   words: A list of projects and experiments
   class: m7 projects
-  border: projects
+  border: Projects
 about:
   url: /About
   heading: Me
   words: Hi, I'm a programmer
   class: m5 about
-  border: about
+  border: About
 resume:
   url: /Resume
   heading: Resume
   words: Check out or download my resume
   class: m6 algorithms
-  border: algorithms
+  border: Algorithms
 contact:
   url: /Contact
   heading: Contact
   words: Feel free to shoot me an email
   class: m6 contact
-  border: contact
+  border: Contact
