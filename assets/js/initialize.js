@@ -121,7 +121,7 @@ function initializeScripts(){
     }
   });
   // debugger
-  if(urlString === 'http://localhost:4000/' || urlString === 'https://levytsroman.github.io/'){
+  if(urlString === 'http://localhost:4000/' || urlString === 'https://chanithakkar.github.io/'){
     Barba.Pjax.getTransition = function() {
       return HideShowTransition;
     };
