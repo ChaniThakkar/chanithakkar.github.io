@@ -45,6 +45,9 @@
 .contact__bkgrnd {
   background-image: url("../images/contact.jpg"); }
 
+.certifications__bkgrnd {
+  background-image: url("../images/certificate.png"); }
+
 .glitch__img:nth-child(n + 2) {
   opacity: 0; }
 
@@ -856,6 +859,10 @@ button.fill:hover:before {
 .projects-border {
   bottom: 0;
   left: 0; }
+
+.certifications-border {
+  top: 0;
+  left: -1px; }
 
 .about_img {
   margin-top: 15px;

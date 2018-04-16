@@ -1,9 +1,3 @@
-projects:
-  url: /projects
-  heading: Projects
-  words: A list of real-time professional/academic projects
-  class: m7 projects
-  border: projects
 about:
   url: /about
   heading: Me
@@ -16,6 +10,18 @@ resume:
   words: Check out or download my resume
   class: m6 algorithms
   border: algorithms
+projects:
+  url: /projects
+  heading: Projects
+  words: A list of real-time professional/academic projects
+  class: m7 projects
+  border: projects
+certifications:
+  url: /certifications
+  heading: Certifications
+  words: Earned Certifications
+  class: m6 certifications
+  border: certifications
 contact:
   url: /contact
   heading: Contact

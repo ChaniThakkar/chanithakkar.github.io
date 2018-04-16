@@ -32,10 +32,12 @@
 
 - name: Data Visualization
   skills:
+    - class: 
+      skill_name:
     - class:
       skill_name: Tableau
     - class: 
-      skill_name: Bokeh Viz Library
+      skill_name: Bokeh Visualization Library
 
 - name: Software Skills
   skills:
