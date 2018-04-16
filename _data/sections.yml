@@ -1,13 +1,13 @@
 Projects:
   url: /Projects
   heading: Projects
-  words: A list of projects and experiments
+  words: A list of real-time professional/academic projects
   class: m7 projects
   border: projects
 About:
   url: /About
   heading: Me
-  words: Hi, I'm a programmer
+  words: Hello, I am Data Panther. (Analysis, Analytics, Big Data, Business Intelligence)
   class: m5 about
   border: about
 Resume:
@@ -19,6 +19,6 @@ Resume:
 Contact:
   url: /Contact
   heading: Contact
-  words: Feel free to shoot me an email
+  words: Send in a message on linkedIn
   class: m6 contact
   border: contact
