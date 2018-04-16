@@ -1,2 +1,2 @@
-# chanithakkar.github.io/datapanther
+# chanithakkar.github.io
 Personal portfolio page
