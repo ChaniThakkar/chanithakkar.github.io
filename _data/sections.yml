@@ -1,23 +1,23 @@
-Projects:
-  url: /Projects
+projects:
+  url: /projects
   heading: Projects
   words: A list of real-time professional/academic projects
   class: m7 projects
   border: projects
-About:
-  url: /About
+about:
+  url: /about
   heading: Me
   words: I am Data-Panther. (Data Analytics, Business Analysis, Data Visualization, Business Intelligence, Big Data)
   class: m5 about
   border: about
-Resume:
-  url: /Resume
+resume:
+  url: /resume
   heading: Resume
   words: Check out or download my resume
   class: m6 algorithms
   border: algorithms
-Contact:
-  url: /Contact
+contact:
+  url: /contact
   heading: Contact
   words: Send in a message on linkedIn
   class: m6 contact
