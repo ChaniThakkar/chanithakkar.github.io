@@ -14,7 +14,7 @@
         <div class="col s3 m2 info_type">
           title:
         </div>
-        <h4 class="col s9 m10">{{project.title}}</h4>
+        <h5 class="col s9 m10">{{project.title}}</h5>
       </div>
       <div class="row">
         <div class="col s3 m2 info_type">
@@ -28,7 +28,7 @@
         </div>
         <div class="col s9 m10">
           {% for tech in project.technologies %}
-            <i class="devicon-{{tech}} project_icons"></i>
+            <p class="description">{{tech}}</p>
           {% endfor %}
         </div>
       </div>
@@ -36,8 +36,7 @@
   </div>
   <div class="modal-footer center-align">
       <div class="buttons">
-        <a class="button_wrapper" target="_blank" href="{{project.url}}"><button class="fill">Live</button></a>
-        <a class="button_wrapper" target="_blank" href="{{project.github_url}}"><button class="fill">Github</button></a>
+        <a class="button_wrapper" target="_blank" href="{{project.github_url}}"><button class="fill">Project Link</button></a>
         <a href="" class="button_wrapper">
           <button id="{{project.id}}" class="next fill">Next</button>
         </a>
