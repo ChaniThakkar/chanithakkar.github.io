@@ -66,6 +66,44 @@
     '/assets/images/project_images/database_design/2.png'
   ]
 
+- id: 5
+  title: Regression Analysis using Python
+  url: https://github.com/ChaniThakkar/Data-Analytics-Projects/blob/master/Regression-Analysis-Against-SP500/Regression%20Analysis%20Equities%20%26%20Other%20Assets%20Against%20SP500.pdf
+  github_url: https://github.com/ChaniThakkar/Data-Analytics-Projects/blob/master/Regression-Analysis-Against-SP500/Regression%20Analysis%20Equities%20%26%20Other%20Assets%20Against%20SP500.pdf
+  description: Conducted regression analysis on 5 distinct classes of assets using Jupyter Notebook, python’s scikit-learn & matplotlib library, NumPy, Pandas to analyze data from multiple data sources & identify the highly correlated asset.
+  technologies: [
+                  Python,
+                  Jupyter Notebook,
+                  scikit-learn lib, 
+                  matplotlib lib,
+                  NumPy,
+                  Pandas
+                ]
+  cover: /assets/images/project_covers/regression-sp500.png
+
+  images: [
+    '/assets/images/project_images/regression-sp500/1.png',
+    '/assets/images/project_images/regression-sp500/2.png'
+  ]
+
+- id: 6
+  title: UI/UX Design of a Travel Website
+  url: https://github.com/ChaniThakkar/Business-Analysis-Projects/blob/master/System-Analysis%20-%20Design/UI-UX%20design%20of%20a%20website.pdf
+  github_url: https://github.com/ChaniThakkar/Business-Analysis-Projects/blob/master/System-Analysis%20-%20Design/UI-UX%20design%20of%20a%20website.pdf
+  description: Used UML and Agile methodology to design a travel website that featured flight booking & hotel reservation. Performed competitive analysis between Expedia & Kayak. Conducted Usability testing on Travelocity.
+  technologies: [
+                  UML,
+                  JIRA,
+                  Balsamiq,
+                  LucidChart,
+                  usertesting.com
+                ]
+  cover: /assets/images/project_covers/ui-ux.jpg
+
+  images: [
+    '/assets/images/project_images/ui-ux/1.png',
+    '/assets/images/project_images/ui-ux/2.png'
+  ]
 # - id: 3
 #   title: Stack Overflow Clone
 #   url: https://dbc-hackoverflow.herokuapp.com/
