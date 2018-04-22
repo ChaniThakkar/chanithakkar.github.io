@@ -16,7 +16,7 @@
     - class: 
       skill_name:
     - class: 
-      skill_name: SQL
+      skill_name: MySql
     - class: 
       skill_name: Rapid Miner
     - class: 
@@ -24,11 +24,15 @@
     - class: 
       skill_name: MS Access
     - class: 
+      skill_name: RStudio
+    - class: 
       skill_name: Hadoop
     - class: 
       skill_name: Hive
     - class: 
       skill_name: Pig
+    - class: 
+      skill_name: Sql Server
 
 - name: Data Visualization
   skills:
