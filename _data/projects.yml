@@ -82,8 +82,8 @@
   cover: /assets/images/project_covers/regression-sp500.png
 
   images: [
-    '/assets/images/project_images_2/regression-sp500/1.png',
-    '/assets/images/project_images_2/regression-sp500/2.png'
+    '/assets/images/project_images_2/regression_sp500/1.png',
+    '/assets/images/project_images_2/regression_sp500/2.png'
   ]
 
 - id: 6
@@ -96,13 +96,12 @@
                   JIRA,
                   Balsamiq,
                   LucidChart,
-                  usertesting.com
                 ]
   cover: /assets/images/project_covers/ui-ux.jpg
 
   images: [
-    '/assets/images/project_images_2/ui-ux/1.png',
-    '/assets/images/project_images_2/ui-ux/2.png'
+    '/assets/images/project_images_2/ui_ux/1.png',
+    '/assets/images/project_images_2/ui_ux/1.png',
   ]
 # - id: 3
 #   title: Stack Overflow Clone
