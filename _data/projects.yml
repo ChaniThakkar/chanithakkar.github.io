@@ -11,8 +11,8 @@
   cover: /assets/images/project_covers/lobito.png
 
   images: [
-    '/assets/images/project_images_2/lobito/1.png',
-    '/assets/images/project_images_2/lobito/2.png'
+    '/assets/images/project_images/lobito/1.png',
+    '/assets/images/project_images/lobito/2.png'
   ]
 
 - id: 2
@@ -62,8 +62,8 @@
   cover: /assets/images/project_covers/database_design.jpg
 
   images: [
-    '/assets/images/project_images_2/database_design/1.png',
-    '/assets/images/project_images_2/database_design/2.png'
+    '/assets/images/project_images/database_design/1.png',
+    '/assets/images/project_images/database_design/2.png'
   ]
 
 - id: 5
@@ -82,8 +82,8 @@
   cover: /assets/images/project_covers/regression-sp500.png
 
   images: [
-    '/assets/images/project_images_2/regression_sp500/1.png',
-    '/assets/images/project_images_2/regression_sp500/2.png'
+    '/assets/images/project_images/regression_sp500/1.png',
+    '/assets/images/project_images/regression_sp500/2.png'
   ]
 
 - id: 6
@@ -100,8 +100,8 @@
   cover: /assets/images/project_covers/ui-ux.jpg
 
   images: [
-    '/assets/images/project_images_2/ui_ux/1.png',
-    '/assets/images/project_images_2/ui_ux/1.png',
+    '/assets/images/project_images/ui_ux/1.png',
+    '/assets/images/project_images/ui_ux/1.png',
   ]
 # - id: 3
 #   title: Stack Overflow Clone
