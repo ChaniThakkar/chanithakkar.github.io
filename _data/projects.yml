@@ -1,4 +1,21 @@
 - id: 1
+  title: IBM Watson AI Tool – “Lobito”
+  url: https://www.youtube.com/watch?v=CbGRWmM2Vg0
+  github_url: https://www.youtube.com/watch?v=CbGRWmM2Vg0
+  description: Collaborated with a team of 5 to design a prototype powered by IBM Watson Visual Recognition and cloud service to help strengthen animal protection efforts, minimize the amount of administration work required by shelter and private rescue groups, reduce human error and overall costs associated with training new workers.
+  technologies: [
+                  IBM Watson Visual Recognition,
+                  IBM Watson AI API's,
+                  Python
+                ]
+  cover: /assets/images/project_covers/lobito.png
+
+  images: [
+    '/assets/images/project_images/lobito/1.png',
+    '/assets/images/project_images/lobito/2.png'
+  ]
+
+- id: 2
   title: Analyze, Visualize Lending Club Open DataSet
   url: https://github.com/ChaniThakkar/Data-Analytics-Projects/blob/master/Analysis%20of%20Open%20Data%20Sets/Visual%20Analysis%20of%20Lending%20Club%20Open%20Data/Lending%20Club%20Visual%20Analysis%20Detailed%20Report.pdf
   github_url: https://github.com/ChaniThakkar/Data-Analytics-Projects/blob/master/Analysis%20of%20Open%20Data%20Sets/Visual%20Analysis%20of%20Lending%20Club%20Open%20Data/Lending%20Club%20Visual%20Analysis%20Detailed%20Report.pdf
@@ -15,8 +32,8 @@
     '/assets/images/project_images/lending_club_open_dataset/1.png', '/assets/images/project_images/lending_club_open_dataset/2.png'
   ]
 
-- id: 2
-  title: Business Intelligence & Tableau Dashboarding/Story for analyzed NYPD's 311 data set
+- id: 3
+  title: Business Intelligence & Tableau Dashboard/Story for analyzed NYPD's 311 data set
   url: https://public.tableau.com/profile/chani4149#!/vizhome/AnalysisofNYPDOpenData/Story1
   github_url: https://public.tableau.com/profile/chani4149#!/vizhome/AnalysisofNYPDOpenData/Story1
   description: Performed Business Intelligence, exploratory Data Analysis & provided meaningful visual representation of data using tableau while delivering high-performance interactivity over large “NYPD's 311” open dataset.
@@ -29,6 +46,24 @@
   images: [
     '/assets/images/project_images/311_open_dataset/1.png',
     '/assets/images/project_images/311_open_dataset/2.png'
+  ]
+
+- id: 4
+  title: Database Development to automate school's laptop-lending system
+  url: https://github.com/ChaniThakkar/Data-Management-Projects/blob/master/Database%20Design/Database%20Design.pdf
+  github_url: https://github.com/ChaniThakkar/Data-Management-Projects/blob/master/Database%20Design/Database%20Design.pdf
+  description: Exercised collaboration and automated School’s laptop lending system by performing ETL with MS-Access using SQL, implementing relational databases and used SQL queries for analysis.
+  technologies: [
+                  MySql,
+                  MS-Access,
+                  SQL,
+                  UML
+                ]
+  cover: /assets/images/project_covers/database_design.jpg
+
+  images: [
+    '/assets/images/project_images/database_design/1.png',
+    '/assets/images/project_images/database_design/2.png'
   ]
 
 # - id: 3
