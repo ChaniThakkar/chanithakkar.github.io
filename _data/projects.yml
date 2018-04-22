@@ -11,8 +11,8 @@
   cover: /assets/images/project_covers/lobito.png
 
   images: [
-    '/assets/images/project_images/lobito/1.png',
-    '/assets/images/project_images/lobito/2.png'
+    '/assets/images/project_images/lobito/1-lobito.png',
+    '/assets/images/project_images/lobito/2-lobito.png'
   ]
 
 - id: 2
@@ -28,8 +28,10 @@
                 ]
   cover: /assets/images/project_covers/lending_club_open_dataset.jpg
   images: [
-    '/assets/images/project_images/lending_club_open_dataset/3.png', '/assets/images/project_images/lending_club_open_dataset/4.png',
-    '/assets/images/project_images/lending_club_open_dataset/1.png', '/assets/images/project_images/lending_club_open_dataset/2.png'
+    '/assets/images/project_images/lending_club_open_dataset/3-lendingClub.png', 
+    '/assets/images/project_images/lending_club_open_dataset/4-lendingClub.png',
+    '/assets/images/project_images/lending_club_open_dataset/1-lendingClub.png', 
+    '/assets/images/project_images/lending_club_open_dataset/2-lendingClub.png'
   ]
 
 - id: 3
@@ -44,8 +46,8 @@
   cover: /assets/images/project_covers/311_open_dataset.jpg
 
   images: [
-    '/assets/images/project_images/311_open_dataset/1.png',
-    '/assets/images/project_images/311_open_dataset/2.png'
+    '/assets/images/project_images/311_open_dataset/1-311.png',
+    '/assets/images/project_images/311_open_dataset/2-311.png'
   ]
 
 - id: 4
@@ -62,8 +64,8 @@
   cover: /assets/images/project_covers/database_design.jpg
 
   images: [
-    '/assets/images/project_images/database_design/1.png',
-    '/assets/images/project_images/database_design/2.png'
+    '/assets/images/project_images/database_design/1-databaseDesign.png',
+    '/assets/images/project_images/database_design/2-databaseDesign.png'
   ]
 
 - id: 5
@@ -82,8 +84,8 @@
   cover: /assets/images/project_covers/regression-sp500.png
 
   images: [
-    '/assets/images/project_images/regression_sp500/1.png',
-    '/assets/images/project_images/regression_sp500/2.png'
+    '/assets/images/project_images/regression_sp500/1-regressionsp500.png',
+    '/assets/images/project_images/regression_sp500/2-regressionsp500.png'
   ]
 
 - id: 6
@@ -100,8 +102,8 @@
   cover: /assets/images/project_covers/ui-ux.jpg
 
   images: [
-    '/assets/images/project_images/ui_ux/1.png',
-    '/assets/images/project_images/ui_ux/1.png',
+    '/assets/images/project_images/ui_ux/1-uiux.png',
+    '/assets/images/project_images/ui_ux/2-uiux.png',
   ]
 # - id: 3
 #   title: Stack Overflow Clone
