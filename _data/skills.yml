@@ -38,6 +38,8 @@
       skill_name: Tableau
     - class: 
       skill_name: Bokeh Visualization Library
+    - class: 
+      skill_name: Power BI
 
 - name: Software Skills
   skills:
